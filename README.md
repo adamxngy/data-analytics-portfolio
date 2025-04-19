@@ -6,6 +6,10 @@ This is a collection of projects where I used data to uncover insights, tell sto
 
 ## 📁 Projects
 
+### Market Research Dashboard
+A PowerBI project that focuses on helping a small business gain better insights into their market, customers, and campaign performance.
+- [PDF file of the Dashboard](data-analytics-portfolio/market_research/Market_Research.pdf)
+
 ### 📈 Lego Dataset Analysis
 An exploratory data analysis of a LEGO dataset using Pandas to examine trends in LEGO sets, themes, and piece counts over time.
 - [Analysis with Pandas and Matplotlib](data-analytics-portfolio/lego_dataset_analysis/Lego_Dataset_Analysis.ipynb)
@@ -20,8 +24,6 @@ A project created in SQL for a Hospital Management System.
 - [Creating the Database and Tables](data-analytics-portfolio/hospital_management_system/SQL_Creating tables and inserting values.sql)
 - [SQL Queries](data-analytics-portfolio/hospital_management_system/SQL queries.sql)
 - [Tableau Dashboard](https://public.tableau.com/app/profile/adam.nagy1854/viz/HospitalManagementSystemDashboard/Dashboard1?publish=yes)
-
-
 
 ---
 
